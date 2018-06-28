@@ -22,7 +22,7 @@
 
 {
     'name': 'Dominio en Listado de Ventas MFH',
-    'version': '10.0.0.1.0',
+    'version': '11.0.0.1.0',
     'author': "Falcón Solutions",
     'maintainer': 'Falcon Solutions',
     'website': 'http://www.falconsolutions.cl',
@@ -34,7 +34,9 @@ Dominio en Listado de Ventas  MFH
 ================================================================================================================
 1-. Modificación en dominio de listado de presupuestos de ventas\n
 """,
-    'depends': ['sale'],
+    'depends': [
+        'sale'
+    ],
     'data': [
         'views/sale_view.xml'
     ],
@@ -43,4 +45,3 @@ Dominio en Listado de Ventas  MFH
     'demo': [],
     'test': [],
 }
-
