@@ -21,14 +21,14 @@
 ##############################################################################
 
 {
-    'name': 'Dominio en Listado de Ventas MFH',
+    'name': 'Sale Tree Domain',
     'version': '10.0.0.1.0',
     'author': "Falcón Solutions",
     'maintainer': 'Falcon Solutions',
     'website': 'http://www.falconsolutions.cl',
     'license': 'AGPL-3',
     'category': 'Sale',
-    'summary': 'Dominio en Listado de Ventas',
+    'summary': '',
     'description': """
 Dominio en Listado de Ventas  MFH
 ================================================================================================================
